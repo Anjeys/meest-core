@@ -1,0 +1,10 @@
+Django>=5.0
+djangorestframework
+psycopg2-binary
+celery
+redis
+python-json-logger
+djangorestframework-simplejwt
+gunicorn
+python-dotenv
+python-logstash
